@@ -27,7 +27,7 @@ public class SimpleRootSquare {
 				result += 0.1;
 			}
 			
-			System.out.println(result - 0.00001);
+			System.out.println(result - 0.1);
 		}
 		
 	}
