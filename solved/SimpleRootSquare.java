@@ -23,7 +23,7 @@ public class SimpleRootSquare {
 			double num = s.nextDouble();
 			double result = 0;
 			
-			while((result * result) < num) {
+			while((result * result) <= num) {
 				result += 0.1;
 			}
 			
